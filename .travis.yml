@@ -1,0 +1,3 @@
+language : python
+script: 
+  - for file in ./Source/Monoid*.sfdir; do . Scripts/parallel_build.sh $file; done
