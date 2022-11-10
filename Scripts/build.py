@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python3
 # vim: sts=4 sw=4 ts=4 et
 
 from __future__ import print_function
